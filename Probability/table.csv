@@ -1,0 +1,9 @@
+Season,Temp,W,Prob
+Summer,Hot,Sun,0.3
+Summer,Hot,Rain,0.05
+Summer,Cold,Sun,0.1
+Summer,Cold,Rain,0.05
+Winter,Hot,Sun,0.1
+Winter,Hot,Rain,0.05
+Winter,Cold,Sun,0.15
+Winter,Cold,Rain,0.2
