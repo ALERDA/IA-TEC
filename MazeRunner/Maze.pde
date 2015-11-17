@@ -1,3 +1,10 @@
+/*
+Estudiantes:
+  Alexander Garcia
+  Erick Carvajal
+  Daniel Madriz
+*/
+
 public class Maze{
   public Node[][] mazeMap;
   int mapLength;
