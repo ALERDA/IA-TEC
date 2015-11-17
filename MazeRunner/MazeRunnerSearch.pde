@@ -1,3 +1,11 @@
+/*
+Estudiantes:
+  Alexander Garcia
+  Erick Carvajal
+  Daniel Madriz
+*/
+
+
 public enum Direction {
     UP,DOWN, LEFT, RIGHT
 }
