@@ -1,3 +1,11 @@
+/*
+Estudiantes:
+  Alexander Garcia
+  Erick Carvajal
+  Daniel Madriz
+*/
+
+
 String lastInput = new String();
 String currentInput = new String();
 PFont myFont; 
