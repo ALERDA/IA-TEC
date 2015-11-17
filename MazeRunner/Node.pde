@@ -1,3 +1,10 @@
+/*
+Estudiantes:
+  Alexander Garcia
+  Erick Carvajal
+  Daniel Madriz
+*/
+
 public class Node{
   private int row,col,nodeId;
   private int itemType;
