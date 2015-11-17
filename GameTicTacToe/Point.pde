@@ -1,3 +1,10 @@
+/*
+Estudiantes:
+  Alexander Garcia
+  Erick Carvajal
+  Daniel Madriz
+*/
+
 class Point {
 
     int x, y;

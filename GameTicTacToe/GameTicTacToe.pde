@@ -1,3 +1,10 @@
+/*
+Estudiantes:
+  Alexander Garcia
+  Erick Carvajal
+  Daniel Madriz
+*/
+
 import java.util.Random;
 Board b = new Board();
 int Scale=100;

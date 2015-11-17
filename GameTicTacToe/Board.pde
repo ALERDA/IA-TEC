@@ -1,3 +1,11 @@
+/*
+Estudiantes:
+  Alexander Garcia
+  Erick Carvajal
+  Daniel Madriz
+*/
+
+
 import java.util.*;
 import java.util.ArrayList;
 
