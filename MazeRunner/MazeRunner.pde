@@ -1,3 +1,10 @@
+/*
+Estudiantes:
+  Alexander Garcia
+  Erick Carvajal
+  Daniel Madriz
+*/
+
 int time;
 int wait = 1000;
 float x = 0;
