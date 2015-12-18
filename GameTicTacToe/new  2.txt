@@ -1,0 +1,9 @@
+1. New fields in Application page
+2. Add new page Fields by Project Type 
+3. New labels for some fields in Edit Project Page:
+	ITUS -> UX/ITUS
+	Detailed Level Requriements -> Detailed Level Requirements/User Stories
+4. Move Detailed Level Requirements/User Stories to Planning phase.
+5. Show the application's Security Plan status
+6. Add the Info Quality ID
+7. Add UX link and UX actual score fields
